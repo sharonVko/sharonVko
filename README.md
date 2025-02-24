@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Sharon.</h1>
 <h3 align="center">A passionate Full-Stack Developer with a ❤️ for Design.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharonvko&label=Profile%20views&color=0e75b6&style=flat" alt="sharonvko" /> </p>
+
 
 - 🔭 I’m currently working on **TBA**
 
@@ -18,3 +18,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharonvko&show_icons=true&locale=en&layout=compact" alt="sharonvko" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharonvko&label=Profile%20views&color=0e75b6&style=flat" alt="sharonvko" /> </p>

@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am a certified Retail Management Assistant too.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 

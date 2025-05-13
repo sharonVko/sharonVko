@@ -7,7 +7,7 @@
     <tr>
       <td align="left">
         <ul style="list-style: none; padding: 0;">
-          <li>🔭 I’m currently working on <strong>TBA</strong></li>
+          <li>🔭 I’m currently working on <strong>a Next.js project</strong></li>
           <li>🌱 I’m currently learning <strong>Three.js</strong></li>
           <li>⚡ Fun fact <strong>I am a certified Retail Management Assistant too.</strong></li>
         </ul>
